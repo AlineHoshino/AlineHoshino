@@ -1,5 +1,5 @@
 ### Hi 👋, I am Aline Eiko Hoshino.
-- 🌱: I’m currently learning React
+- 🌱: I’m currently learning mySQL
 - 💻: I'm student at Trybe
 - 🙂: Pronouns:ela/dela
 <div>
