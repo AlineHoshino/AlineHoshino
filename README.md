@@ -25,4 +25,75 @@
 </div>
   
   <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+
+**🐱 My GitHub Data** 
+
+> 🏆 267 Contributions in the Year 2021
+ > 
+> 📦 6.4 kB Used in GitHub's Storage 
+ > 
+> 💼 Opted to Hire
+ > 
+> 📜 12 Public Repositories 
+ > 
+> 🔑 0 Private Repositories  
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning    14 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.0% 
+🌆 Daytime    53 commits     █████████░░░░░░░░░░░░░░░░   37.86% 
+🌃 Evening    68 commits     ████████████░░░░░░░░░░░░░   48.57% 
+🌙 Night      5 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.57%
+
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday       24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Tuesday      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.0% 
+Wednesday    31 commits     █████░░░░░░░░░░░░░░░░░░░░   22.14% 
+Thursday     24 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.14% 
+Friday       13 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.29% 
+Saturday     8 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   5.71% 
+Sunday       33 commits     ██████░░░░░░░░░░░░░░░░░░░   23.57%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: America/Sao_Paulo
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               3 repos             ███████████████░░░░░░░░░░   60.0% 
+HTML                     2 repos             ██████████░░░░░░░░░░░░░░░   40.0%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
+
+
+ Last Updated on 02/11/2021
 <!--END_SECTION:waka--> 
