@@ -28,7 +28,7 @@
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=alinehoshino&theme=gruvbox&layout=compact"/>
 </a>
   <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=alinehoshino&row=2&column=3&theme=gruvbox"/>
-  </div> 
+
   <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
 
