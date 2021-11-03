@@ -23,11 +23,11 @@
   <a href="https://www.linkedin.com/in/alinehoshino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
 </div>
-<!--   <div align="center">
+  <div align="center">
  <a href="https://wakatime.com/@AlineHoshino">
   <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlineHoshino&theme=gruvbox&layout=compact"/>
 </a>
-  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=AlineHoshino&row=2&column=3&theme=gruvbox"/> -->
+  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=AlineHoshino&row=2&column=3&theme=gruvbox"/>
 <details>
   <summary> Status Wakatime </summary>
   
