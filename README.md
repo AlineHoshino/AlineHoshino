@@ -21,35 +21,7 @@
   <div>
   <a href = "mailto:hoshinoaline@yahoo.com.br"><img src="https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/alinehoshino" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
-    
-* * *
-
-<div align="center">
-<a href="https://wakatime.com/@AlineHoshino">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHoshino&langs_count=10&theme=gruvbox&layout=compact&include_all_commits=true" width="400px"/>
-</a>
-<a href="https://wakatime.com/@AlineHoshino">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api?username=AlineHoshino&count_private=true&theme=gruvbox"/>
-</a>
 </div>
-
-* * *
-
-<div align="center">
- <a href="https://wakatime.com/@AlineHoshino">
-  <img align="center" width="400px" src="https://github-readme-stats.vercel.app/api/wakatime?username=AlineHoshino&theme=gruvbox&layout=compact"/>
-</a>
-  <img align="center" width="400px" src="https://github-profile-trophy.vercel.app/?username=AlineHoshino&row=2&column=3&theme=gruvbox"/>
-
-* * *
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AlineHoshino&theme=dark)](https://git.io/streak-stats)
-
-</div>
-
-
-* * *
 
   <details>
   <summary> Status Wakatime </summary>
