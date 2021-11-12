@@ -1,5 +1,5 @@
 ### Hi 👋, I am Aline Eiko Hoshino.
-- 🌱: I’m currently learning Docker
+- 🌱: I’m currently learning MongoDB
 - 💻: I'm student at Trybe
 - 🙂: Pronouns:ela/dela
 <div>
