@@ -70,16 +70,18 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               12 mins             █████████████░░░░░░░░░░░░   52.8% 
+CSS                      7 mins              ███████░░░░░░░░░░░░░░░░░░   30.3% 
+HTML                     4 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.9%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  24 mins             █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+estudo                   24 mins             █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    24 mins             █████████████████████████   100.0%
 
 ```
 
@@ -97,6 +99,6 @@ HTML                     2 repos             ██████████░�
 ![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/12/2021
+ Last Updated on 19/12/2021
 <!--END_SECTION:waka--> 
   </details>
