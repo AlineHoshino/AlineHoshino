@@ -27,7 +27,7 @@
   <summary> Status Wakatime </summary>
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-11-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,16 +70,17 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+CSS                      40 mins             ████████████████░░░░░░░░░   64.46% 
+HTML                     22 mins             █████████░░░░░░░░░░░░░░░░   35.54%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 3 mins         █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+AlineHoshino.github.io   1 hr 3 mins         █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    1 hr 3 mins         █████████████████████████   100.0%
 
 ```
 
@@ -97,6 +98,6 @@ HTML                     2 repos             ██████████░�
 ![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
 
 
- Last Updated on 29/12/2021
+ Last Updated on 30/12/2021
 <!--END_SECTION:waka--> 
   </details>
