@@ -27,7 +27,7 @@
   <summary> Status Wakatime </summary>
   
   <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
 **🐱 My GitHub Data** 
 
@@ -70,17 +70,17 @@ Sunday       30 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      40 mins             ████████████████░░░░░░░░░   64.46% 
-HTML                     22 mins             █████████░░░░░░░░░░░░░░░░   35.54%
+CSS                      1 hr 22 mins        ██████████████░░░░░░░░░░░   56.07% 
+HTML                     1 hr 4 mins         ███████████░░░░░░░░░░░░░░   43.93%
 
 🔥 Editors: 
-VS Code                  1 hr 3 mins         █████████████████████████   100.0%
+VS Code                  2 hrs 27 mins       █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-AlineHoshino.github.io   1 hr 3 mins         █████████████████████████   100.0%
+AlineHoshino.github.io   2 hrs 27 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Linux                    1 hr 3 mins         █████████████████████████   100.0%
+Linux                    2 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
@@ -98,6 +98,6 @@ HTML                     2 repos             ██████████░�
 ![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
 
 
- Last Updated on 30/12/2021
+ Last Updated on 31/12/2021
 <!--END_SECTION:waka--> 
   </details>
