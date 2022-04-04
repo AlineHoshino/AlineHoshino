@@ -1,7 +1,9 @@
 ### Hi 👋, I am Aline Eiko Hoshino.
+I have a degree in History from UNESP/ASSIS and I have always enjoyed learning. I try to learn every day.
 - 🌱: I’m currently learning Node.JS
 - 💻: I'm student at Trybe
 - 🙂: Pronouns:ela/dela
+- Hobbies: Draw 
 <div>
   <a href="https://github.com/AlineHoshino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineHoshino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
