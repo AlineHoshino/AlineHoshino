@@ -1,7 +1,7 @@
 ### Hi 👋, I am Aline Eiko Hoshino.
 I have a degree in History from UNESP/ASSIS,
 I'm in career transition. I have always enjoyed learning. I try to learn every day.
-- 🌱: I’m currently learning CI/CD
+- 🌱: I’m currently learning Python
 - 💻: I'm student at Trybe
 - 🙂: Pronouns:ela/dela
 - Hobbies: Draw 
