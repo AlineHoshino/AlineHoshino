@@ -40,7 +40,7 @@ I'm in career transition. I have always enjoyed learning. I try to learn every d
 
 > 🏆 308 Contributions in the Year 2022
  > 
-> 📦 140.2 kB Used in GitHub's Storage 
+> 📦 140.1 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -77,8 +77,9 @@ Sunday       21 commits     ██░░░░░░░░░░░░░░░�
 ⌚︎ Time Zone: America/Sao_Paulo
 
 💬 Programming Languages: 
-CSS                      1 hr 55 mins        ████████████████████░░░░░   81.05% 
-HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.94% 
+CSS                      1 hr 55 mins        ████████████████████░░░░░   81.03% 
+HTML                     27 mins             ████░░░░░░░░░░░░░░░░░░░░░   18.92% 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.04% 
 XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.01%
 
 🔥 Editors: 
@@ -109,6 +110,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
 
 
- Last Updated on 18/06/2022 18:46:28 UTC
+ Last Updated on 19/06/2022 18:47:00 UTC
 <!--END_SECTION:waka--> 
   </details>
