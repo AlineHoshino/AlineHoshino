@@ -34,7 +34,7 @@ I'm in career transition. I have always enjoyed learning. I try to learn every d
   <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
@@ -115,6 +115,6 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Chart not found](https://raw.githubusercontent.com/AlineHoshino/AlineHoshino/main/charts/bar_graph.png) 
 
 
- Last Updated on 24/06/2022 18:50:26 UTC
+ Last Updated on 25/06/2022 18:46:47 UTC
 <!--END_SECTION:waka--> 
   </details>
