@@ -1,10 +1,15 @@
 ### Hi 👋, I am Aline Eiko Hoshino.
-I have a degree in History from UNESP/ASSIS,
-I'm in career transition. I have always enjoyed learning. I try to learn every day.
+
 - 🌱: I’m currently learning Python
-- 💻: I'm student at Trybe
 - 🙂: Pronouns:ela/dela
-- Hobbies: Draw 
+- Hobbies: Code,Draw
+```
+let Aline = {
+    phrase: "Fall 7 times…Get up 8!",
+    curiosity: "My cat codes not me xD",
+}
+
+```
 <div>
   <a href="https://github.com/AlineHoshino">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineHoshino&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
@@ -15,6 +20,7 @@ I'm in career transition. I have always enjoyed learning. I try to learn every d
   <img align="center" alt="-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Js" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img  align="center" alt="mongo" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> 
+  <img align="center" alt="Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="mysql" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img align="center" alt="React" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align="center" alt="-Redux" height="40" width="40" src="https://camo.githubusercontent.com/37d7a9a7f4e4fa18c400fb3042f9c36a8e57ab7b34295e7c2bc4b990a74e756d/68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f72656475785f6f726967696e616c5f6c6f676f5f69636f6e5f3134363336352e706e67">
