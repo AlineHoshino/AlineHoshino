@@ -12,8 +12,8 @@
 
 <div>
 <a href="https://github.com/AlineHoshino">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHoshinoi&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlineHoshino&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlineHoshino&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/seu-usuário-aqui/AlineHoshino/blob/output/github-contribution-grid-snake.svg)
