@@ -3,8 +3,7 @@
 
 ### Hi, my name is Aline Eiko Hoshino!
 
-- 🔭 I’m currently working on Amicci
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently studying at FIAP
 
 
 ![gato](https://user-images.githubusercontent.com/83770726/214979605-60db0722-2b7e-4a25-b841-189452ba58dc.gif)
